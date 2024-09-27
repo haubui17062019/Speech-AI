@@ -1,4 +1,6 @@
-import json, librosa, os, glob
+import glob
+import json
+import librosa
 from sklearn.utils import shuffle
 
 
@@ -29,6 +31,7 @@ def vlsp_build_manifest(folder_data):
             with open("./prapare_data/train_manifest.json", 'a') as fout:
                 json.dump(metadata, fout)
                 fout.write("\n")
+
 
 if __name__ == "__main__":
     folder_data = "/home1/data/haubui/Speech-AI/ASR/prapare_data/vlsp2020_train_set_02"

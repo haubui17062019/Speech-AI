@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ASR/fairseq" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FluxMusic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Triton-ASR-Client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nemo2riva" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sherpa" vcs="Git" />
+  </component>
+</project>
